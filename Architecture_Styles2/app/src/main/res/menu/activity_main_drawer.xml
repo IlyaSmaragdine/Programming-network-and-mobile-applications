@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_davgr"
+            android:title="Древнегреческая архитектура" />
+        <item
+            android:id="@+id/id_davrim"
+            android:title="Древнеримская архитектура" />
+        <item
+            android:id="@+id/id_visant"
+            android:title="Византийская архитектура" />
+        <item
+            android:id="@+id/id_rom"
+            android:title="Романский стиль" />
+        <item
+            android:id="@+id/id_got"
+            android:title="Готический стиль" />
+        <item
+            android:id="@+id/id_ren"
+            android:title="Ренессанс" />
+        <item
+            android:id="@+id/id_bar"
+            android:title="Барокко" />
+        <item
+            android:id="@+id/id_roc"
+            android:title="Рококо" />
+        <item
+            android:id="@+id/id_clas"
+            android:title="Классицизм" />
+        <item
+            android:id="@+id/id_ecl"
+            android:title="Эклектика" />
+        <item
+            android:id="@+id/id_modern"
+            android:title="Модерн, или ар-нуво" />
+        <item
+            android:id="@+id/id_avang"
+            android:title="Авангард" />
+        <item
+            android:id="@+id/id_modernism"
+            android:title="Модернизм" />
+        <item
+            android:id="@+id/id_postmodernism"
+            android:title="Постмодернизм" />
+        <item
+            android:id="@+id/id_deconstruct"
+            android:title="Деконструктивизм" />
+
+    </group>
+</menu>

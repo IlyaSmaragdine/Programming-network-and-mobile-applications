@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ancient_greek_architecture_text">
+    </string-array>
+
+    <string-array name="ancient_roman_architecture">
+    </string-array>
+
+    <string-array name="Byzantine_architecture">
+    </string-array>
+
+    <string-array name="Roman_style">
+    </string-array>
+
+    <string-array name="Gothic_style">
+    </string-array>
+
+    <string-array name="Renaissance">
+    </string-array>
+
+    <string-array name="Baroque">
+    </string-array>
+
+    <string-array name="Rococo">
+    </string-array>
+
+    <string-array name="Classicism">
+    </string-array>
+
+    <string-array name="Eclecticism">
+    </string-array>
+
+    <string-array name="Modern">
+    </string-array>
+
+    <string-array name="Vanguard">
+    </string-array>
+
+    <string-array name="Modernism">
+    </string-array>
+
+    <string-array name="Postmodernism">
+    </string-array>
+
+    <string-array name="Deconstructivism">
+    </string-array>
+
+</resources>
